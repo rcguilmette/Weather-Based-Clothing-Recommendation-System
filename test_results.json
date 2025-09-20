@@ -1,0 +1,306 @@
+{
+  "scenarios": [
+    {
+      "scenario_id": 1,
+      "description": "Hot summer day",
+      "weather": {
+        "temp": 90,
+        "wind": 5,
+        "precip": 0
+      },
+      "evaluations": {
+        "basic": {
+          "score": 3,
+          "max_score": 3,
+          "percentage": 100.0,
+          "recommendation": "For today's warm weather, I recommend wearing a tank top or a short-sleeve t-shirt paired with shorts for comfort, and finish the look with sandals for a relaxed vibe. Don\u2019t forget to bring along sunglasses to protect your eyes from the sun!"
+        },
+        "detailed": {
+          "score": 3,
+          "max_score": 3,
+          "percentage": 100.0,
+          "recommendation": "For today's hot weather (90 \u00b0F), I recommend a **short-sleeve t-shirt** paired with **shorts** for breathability, complemented by **sandals** for comfort. A **sun hat** and **sunglasses** will provide protection from the sun, making for a perfect summer outfit."
+        },
+        "feedback_focused": {
+          "score": 3,
+          "max_score": 3,
+          "percentage": 100.0,
+          "recommendation": "For today's warm weather, I recommend wearing a short-sleeve t-shirt paired with shorts for comfort and breathability. Complete the outfit with sandals and a baseball cap to protect against the sun."
+        },
+        "comparative": {
+          "score": 3,
+          "max_score": 3,
+          "percentage": 100.0,
+          "recommendation": "For today's warm weather (90 \u00b0F), I recommend a comfortable outfit consisting of a short-sleeve t-shirt, shorts, and sandals. You can also add sunglasses for protection against the sun, making this outfit light and breathable while ensuring comfort in the heat."
+        }
+      }
+    },
+    {
+      "scenario_id": 2,
+      "description": "Cold winter day",
+      "weather": {
+        "temp": 20,
+        "wind": 10,
+        "precip": 0
+      },
+      "evaluations": {
+        "basic": {
+          "score": 3,
+          "max_score": 3,
+          "percentage": 100.0,
+          "recommendation": "For today's cold weather, I recommend wearing your heavy winter coat or parka with hood, paired with a thermal undershirt, a heavy sweater, and thermal underwear for warmth. Complete the look with jeans, winter boots, a beanie, and gloves to stay cozy and protected from the wind."
+        },
+        "detailed": {
+          "score": 3,
+          "max_score": 3,
+          "percentage": 100.0,
+          "recommendation": "For today's weather at 20\u00b0F with a wind speed of 10 mph, I recommend wearing a heavy winter coat over a heavy sweater, paired with jeans. Complete the outfit with winter boots for warmth and a beanie and gloves for extra protection against the cold."
+        },
+        "feedback_focused": {
+          "score": 3,
+          "max_score": 3,
+          "percentage": 100.0,
+          "recommendation": "For today's 20\u00b0F weather, I recommend wearing the heavy winter coat over a heavy sweater paired with jeans for warmth, along with winter boots for footwear. Don\u2019t forget to add a beanie, gloves, and a scarf to keep comfortable in the cold!"
+        },
+        "comparative": {
+          "score": 3,
+          "max_score": 3,
+          "percentage": 100.0,
+          "recommendation": "For today's cold weather at 20\u00b0F with a wind speed of 10 mph, I recommend wearing the parka with hood, thermal underwear, jeans, winter boots, and accessories like a beanie, gloves, and a scarf for optimal warmth and wind resistance. This combination ensures you stay warm and protected against the elements while being comfortable."
+        }
+      }
+    },
+    {
+      "scenario_id": 3,
+      "description": "Rainy spring day",
+      "weather": {
+        "temp": 55,
+        "wind": 8,
+        "precip": 15
+      },
+      "evaluations": {
+        "basic": {
+          "score": 3,
+          "max_score": 3,
+          "percentage": 100.0,
+          "recommendation": "For today's weather, I recommend wearing the parka with a hood, paired with a long-sleeve t-shirt and jeans. Don't forget to accessorize with a scarf and use your umbrella to stay dry!"
+        },
+        "detailed": {
+          "score": 3,
+          "max_score": 3,
+          "percentage": 100.0,
+          "recommendation": "For today's weather, I recommend a parka with a hood (warmth: 5, water: 4, wind: 5) over a heavier sweater (warmth: 4, water: 1, wind: 2), paired with jeans (warmth: 3, water: 1, wind: 2) and rain boots (warmth: 3, water: 5, wind: 2). Complete the look with a beanie (warmth: 5, water: 2, wind: 4) for added warmth and wind resistance."
+        },
+        "feedback_focused": {
+          "score": 3,
+          "max_score": 3,
+          "percentage": 100.0,
+          "recommendation": "For today's weather, I recommend wearing a wool peacoat over a heavy sweater paired with jeans, along with winter boots for warmth and comfort. Don\u2019t forget to take an umbrella to stay dry from the rain!"
+        },
+        "comparative": {
+          "score": 2,
+          "max_score": 3,
+          "percentage": 66.66666666666666,
+          "recommendation": "For today's weather, I recommend wearing the **Parka with hood** for warmth and water resistance, paired with **Jeans** for flexibility, and **Winter boots** for comfort and protection from rain. Complete the outfit with a **Beanie** and **Gloves** to keep warm and block the wind."
+        }
+      }
+    },
+    {
+      "scenario_id": 4,
+      "description": "Windy fall day",
+      "weather": {
+        "temp": 45,
+        "wind": 20,
+        "precip": 0
+      },
+      "evaluations": {
+        "basic": {
+          "score": 3,
+          "max_score": 3,
+          "percentage": 100.0,
+          "recommendation": "Given the chilly 45 \u00b0F temperature and 20 mph winds, I recommend wearing the heavy winter coat, a warm fleece jacket, jeans, thermal undershirt, and winter boots. Accessorize with a beanie and scarf for added warmth!"
+        },
+        "detailed": {
+          "score": 3,
+          "max_score": 3,
+          "percentage": 100.0,
+          "recommendation": "For today's weather (45\u00b0F, 20 mph wind), I recommend wearing a parka with a hood for warmth and wind resistance, paired with a heavy sweater for extra insulation. Complete the outfit with jeans, winter boots, and a beanie to keep your head warm against the wind."
+        },
+        "feedback_focused": {
+          "score": 3,
+          "max_score": 3,
+          "percentage": 100.0,
+          "recommendation": "For today's weather, I recommend wearing the heavy winter coat, a heavy sweater underneath, and jeans to keep you warm without overheating. Complete the look with winter boots, a beanie, and gloves for added comfort against the wind."
+        },
+        "comparative": {
+          "score": 2,
+          "max_score": 3,
+          "percentage": 66.66666666666666,
+          "recommendation": "For today's cold and windy weather (45\u00b0F with 20 mph winds), I recommend wearing the parka with hood, paired with jeans, winter boots, and accessorizing with a beanie and scarf for extra warmth. This outfit offers excellent warmth, wind resistance, and enough water protection to keep you comfortable throughout the day."
+        }
+      }
+    },
+    {
+      "scenario_id": 5,
+      "description": "Mild pleasant day",
+      "weather": {
+        "temp": 70,
+        "wind": 3,
+        "precip": 0
+      },
+      "evaluations": {
+        "basic": {
+          "score": 3,
+          "max_score": 3,
+          "percentage": 100.0,
+          "recommendation": "For today's lovely 70\u00b0F weather, I recommend wearing a light jacket over a short-sleeve t-shirt with jeans and sneakers. This combination will keep you comfortable in the mild temperature while allowing for easy movement."
+        },
+        "detailed": {
+          "score": 3,
+          "max_score": 3,
+          "percentage": 100.0,
+          "recommendation": "For today's weather of 70\u00b0F with no precipitation and a light breeze, I recommend a light sweater paired with jeans for comfort. Complement the outfit with sneakers and a baseball cap for added sun protection."
+        },
+        "feedback_focused": {
+          "score": 3,
+          "max_score": 3,
+          "percentage": 100.0,
+          "recommendation": "For today's weather, I recommend wearing a light jacket over a short-sleeve t-shirt paired with chinos, along with sneakers for comfort. You can accessorize with a baseball cap and sunglasses to protect against the sun."
+        },
+        "comparative": {
+          "score": 3,
+          "max_score": 3,
+          "percentage": 100.0,
+          "recommendation": "For today's pleasant weather, I recommend wearing a light jacket, paired with jeans, and sneakers for comfort. Add a baseball cap for sun protection, and you\u2019ll be well-equipped for a lovely day outdoors."
+        }
+      }
+    },
+    {
+      "scenario_id": 6,
+      "description": "Snowy winter day",
+      "weather": {
+        "temp": 25,
+        "wind": 12,
+        "precip": 20
+      },
+      "evaluations": {
+        "basic": {
+          "score": 2,
+          "max_score": 3,
+          "percentage": 66.66666666666666,
+          "recommendation": "Given the cold temperature of 25 \u00b0F, wind, and precipitation, I recommend wearing a heavy winter coat or parka with a hood, paired with thermal underwear, a heavy sweater, jeans, and winter boots. Don't forget to accessorize with a beanie, scarf, and gloves to stay warm and dry!"
+        },
+        "detailed": {
+          "score": 2,
+          "max_score": 3,
+          "percentage": 66.66666666666666,
+          "recommendation": "For today's cold weather at 25 \u00b0F with significant precipitation, I recommend wearing the parka with hood for warmth and water resistance, a heavy sweater as your top, sweatpants for comfort and warmth, winter boots for reliable water resistance, and accessorize with a beanie and gloves to keep warm in the wind."
+        },
+        "feedback_focused": {
+          "score": 2,
+          "max_score": 3,
+          "percentage": 66.66666666666666,
+          "recommendation": "For today's weather, I recommend wearing the heavy winter coat over a thermal undershirt, paired with jeans and winter boots. Complete the outfit with a beanie, scarf, and gloves to stay warm and comfortable in the cold, windy, and wet conditions."
+        },
+        "comparative": {
+          "score": 2,
+          "max_score": 3,
+          "percentage": 66.66666666666666,
+          "recommendation": "For today's 25 \u00b0F weather with 12 mph winds and 20 mm precipitation, I recommend wearing the parka with hood, thermal underwear, winter boots, and a beanie. This combination provides excellent warmth, high water resistance, and good wind protection, ensuring comfort in the chilly and wet conditions."
+        }
+      }
+    },
+    {
+      "scenario_id": 7,
+      "description": "Hot and rainy day",
+      "weather": {
+        "temp": 80,
+        "wind": 4,
+        "precip": 10
+      },
+      "evaluations": {
+        "basic": {
+          "score": 3,
+          "max_score": 3,
+          "percentage": 100.0,
+          "recommendation": "Given the 80\u00b0F temperature and 10 mm of precipitation, I recommend wearing the raincoat over a short-sleeve t-shirt paired with shorts and sandals. Don't forget to take an umbrella for the potential rain!"
+        },
+        "detailed": {
+          "score": 3,
+          "max_score": 3,
+          "percentage": 100.0,
+          "recommendation": "Given today's warm temperature of 80\u00b0F and light precipitation, I recommend a short-sleeve t-shirt paired with shorts, along with sandals for footwear. To prepare for the rain, carry a lightweight raincoat and consider bringing an umbrella for extra protection."
+        },
+        "feedback_focused": {
+          "score": 3,
+          "max_score": 3,
+          "percentage": 100.0,
+          "recommendation": "For today's warm weather with possible rain, I recommend wearing a light jacket over a short-sleeve t-shirt paired with shorts. Complete the outfit with sandals and bring an umbrella for potential precipitation."
+        },
+        "comparative": {
+          "score": 3,
+          "max_score": 3,
+          "percentage": 100.0,
+          "recommendation": "For today's weather, I recommend wearing a **raincoat** for water resistance, paired with **shorts** for comfort in the heat, along with **sneakers** for easy movement. Complete the outfit with **sunglasses** to protect against the sun and stay comfortable in light rain."
+        }
+      }
+    },
+    {
+      "scenario_id": 8,
+      "description": "Cold and windy day",
+      "weather": {
+        "temp": 35,
+        "wind": 25,
+        "precip": 0
+      },
+      "evaluations": {
+        "basic": {
+          "score": 3,
+          "max_score": 3,
+          "percentage": 100.0,
+          "recommendation": "For the chilly 35 \u00b0F weather with strong winds, I recommend wearing your heavy winter coat or parka with a hood, paired with a thermal undershirt, heavy sweater, and jeans. Don\u2019t forget to add gloves, a beanie, and winter boots to keep warm!"
+        },
+        "detailed": {
+          "score": 3,
+          "max_score": 3,
+          "percentage": 100.0,
+          "recommendation": "For today's cold weather (35\u00b0F) with high winds (25 mph), I recommend wearing a parka with a hood (outerwear), a heavy sweater (top), jeans (bottom), winter boots (footwear), and accessorizing with a beanie and gloves for extra warmth. This combination will ensure you stay warm and protected against the wind."
+        },
+        "feedback_focused": {
+          "score": 3,
+          "max_score": 3,
+          "percentage": 100.0,
+          "recommendation": "For today's chilly weather, I recommend wearing the heavy winter coat over a thermal undershirt paired with jeans. Complete the outfit with a beanie, gloves, and winter boots to keep you warm and comfortable against the wind."
+        },
+        "comparative": {
+          "score": 2,
+          "max_score": 3,
+          "percentage": 66.66666666666666,
+          "recommendation": "For today's cold weather with strong winds, I recommend wearing the Parka with hood for optimal warmth and wind resistance, paired with jeans for comfort, winter boots for insulation and traction, and accessorizing with a beanie, scarf, and gloves for added warmth. This outfit provides excellent protection against the elements while ensuring you stay warm and stylish."
+        }
+      }
+    }
+  ],
+  "prompt_performance": {
+    "basic": {
+      "total_score": 23,
+      "max_possible": 24,
+      "percentage": 95.83333333333334
+    },
+    "detailed": {
+      "total_score": 23,
+      "max_possible": 24,
+      "percentage": 95.83333333333334
+    },
+    "feedback_focused": {
+      "total_score": 23,
+      "max_possible": 24,
+      "percentage": 95.83333333333334
+    },
+    "comparative": {
+      "total_score": 20,
+      "max_possible": 24,
+      "percentage": 83.33333333333334
+    }
+  }
+}

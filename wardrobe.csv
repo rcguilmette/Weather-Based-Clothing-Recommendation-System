@@ -1,0 +1,72 @@
+item_name,type,warmth_rating,water_resistance,wind_resistance
+Heavy winter coat,outerwear,5,3,4
+Parka with hood,outerwear,5,4,5
+Light jacket,outerwear,3,2,3
+Denim jacket,outerwear,2,1,2
+Raincoat,outerwear,2,5,3
+Windbreaker,outerwear,2,3,5
+Trench coat,outerwear,3,4,3
+Leather jacket,outerwear,3,2,4
+Bomber jacket,outerwear,3,2,3
+Fleece jacket,outerwear,4,1,2
+Wool peacoat,outerwear,4,3,4
+Down vest,outerwear,3,2,3
+Cardigan,top,3,1,1
+Heavy sweater,top,4,1,2
+Light sweater,top,3,1,1
+Turtleneck,top,4,1,2
+Long-sleeve t-shirt,top,2,1,1
+Short-sleeve t-shirt,top,1,1,1
+Tank top,top,1,1,1
+Button-up shirt,top,2,1,1
+Flannel shirt,top,3,1,2
+Polo shirt,top,2,1,1
+Dress shirt,top,2,1,1
+Hoodie,top,3,1,2
+Sweatshirt,top,3,1,2
+Thermal undershirt,top,3,1,1
+Jeans,bottom,3,1,2
+Khaki pants,bottom,2,1,2
+Dress pants,bottom,2,1,2
+Chinos,bottom,2,1,2
+Shorts,bottom,1,1,1
+Sweatpants,bottom,4,1,1
+Leggings,bottom,2,1,1
+Track pants,bottom,2,1,2
+Thermal underwear,bottom,4,1,1
+Cargo pants,bottom,2,2,2
+Corduroy pants,bottom,3,1,2
+Skirt,bottom,1,1,1
+Long skirt,bottom,2,1,1
+Summer dress,dress,1,1,1
+Casual dress,dress,2,1,1
+Formal dress,dress,2,1,1
+Maxi dress,dress,2,1,1
+Sundress,dress,1,1,1
+Winter boots,footwear,5,4,3
+Rain boots,footwear,3,5,2
+Sneakers,footwear,2,2,1
+Dress shoes,footwear,2,1,1
+Sandals,footwear,1,1,1
+Flip flops,footwear,1,1,1
+Hiking boots,footwear,4,3,3
+Loafers,footwear,2,1,1
+Beanie,accessory,5,2,4
+Baseball cap,accessory,2,2,3
+Sun hat,accessory,1,1,3
+Scarf,accessory,4,1,4
+Gloves,accessory,5,2,4
+Mittens,accessory,5,3,5
+Earmuffs,accessory,4,1,4
+Wool socks,accessory,5,1,1
+Cotton socks,accessory,2,1,1
+No-show socks,accessory,1,1,1
+Umbrella,accessory,1,5,3
+Sunglasses,accessory,1,1,3
+Winter hat,accessory,5,3,4
+Bandana,accessory,1,1,2
+Belt,accessory,1,1,1
+Tie,accessory,1,1,1
+Bow tie,accessory,1,1,1
+Watch,accessory,1,1,1
+fedora,accessory,1,1,1

@@ -1,0 +1,102 @@
+[
+    {
+      "scenario_id": 1,
+      "description": "Hot summer day",
+      "weather": { "temp": 90, "wind": 5, "precip": 0 }
+    },
+    {
+      "scenario_id": 2,
+      "description": "Cold winter day",
+      "weather": { "temp": 20, "wind": 10, "precip": 0 }
+    },
+    {
+      "scenario_id": 3,
+      "description": "Rainy spring day",
+      "weather": { "temp": 55, "wind": 8, "precip": 15 }
+    },
+    {
+      "scenario_id": 4,
+      "description": "Windy fall day",
+      "weather": { "temp": 45, "wind": 20, "precip": 0 }
+    },
+    {
+      "scenario_id": 5,
+      "description": "Mild pleasant day",
+      "weather": { "temp": 70, "wind": 3, "precip": 0 }
+    },
+    {
+      "scenario_id": 6,
+      "description": "Snowy winter day",
+      "weather": { "temp": 25, "wind": 12, "precip": 20 }
+    },
+    {
+      "scenario_id": 7,
+      "description": "Hot and rainy day",
+      "weather": { "temp": 80, "wind": 4, "precip": 10 }
+    },
+    {
+      "scenario_id": 8,
+      "description": "Cold and windy day",
+      "weather": { "temp": 35, "wind": 25, "precip": 0 }
+    },
+    {
+      "scenario_id": 9,
+      "description": "Borderline warm day (exactly 80 °F)",
+      "weather": { "temp": 80, "wind": 5, "precip": 0 }
+    },
+    {
+      "scenario_id": 10,
+      "description": "Borderline cold day (exactly 40 °F)",
+      "weather": { "temp": 40, "wind": 5, "precip": 0 }
+    },
+    {
+      "scenario_id": 11,
+      "description": "Light drizzle, moderate temperature",
+      "weather": { "temp": 60, "wind": 10, "precip": 6 }
+    },
+    {
+      "scenario_id": 12,
+      "description": "Warm thunderstorm with strong winds",
+      "weather": { "temp": 75, "wind": 18, "precip": 25 }
+    },
+    {
+      "scenario_id": 13,
+      "description": "Severe blizzard conditions",
+      "weather": { "temp": 10, "wind": 30, "precip": 30 }
+    },
+    {
+      "scenario_id": 14,
+      "description": "Extreme heat wave",
+      "weather": { "temp": 105, "wind": 2, "precip": 0 }
+    },
+    {
+      "scenario_id": 15,
+      "description": "Tropical storm (hot, very windy, heavy rain)",
+      "weather": { "temp": 88, "wind": 60, "precip": 50 }
+    },
+    {
+      "scenario_id": 16,
+      "description": "Gale‑force cold winds",
+      "weather": { "temp": 35, "wind": 16, "precip": 0 }
+    },
+    {
+      "scenario_id": 17,
+      "description": "Wind threshold day (exactly 15 mph)",
+      "weather": { "temp": 70, "wind": 15, "precip": 0 }
+    },
+    {
+      "scenario_id": 18,
+      "description": "Precipitation threshold day (exactly 5 mm)",
+      "weather": { "temp": 70, "wind": 3, "precip": 5 }
+    },
+    {
+      "scenario_id": 19,
+      "description": "Calm clear mild day (zero wind)",
+      "weather": { "temp": 65, "wind": 0, "precip": 0 }
+    },
+    {
+      "scenario_id": 20,
+      "description": "Arctic freeze (negative temperature)",
+      "weather": { "temp": -5, "wind": 10, "precip": 0 }
+    }
+  ]

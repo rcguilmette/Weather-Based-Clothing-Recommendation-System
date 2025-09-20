@@ -1,0 +1,74 @@
+[
+  {
+    "scenario_id": 1,
+    "description": "Hot summer day",
+    "weather": {
+      "temp": 90,
+      "wind": 5,
+      "precip": 0
+    }
+  },
+  {
+    "scenario_id": 2,
+    "description": "Cold winter day",
+    "weather": {
+      "temp": 20,
+      "wind": 10,
+      "precip": 0
+    }
+  },
+  {
+    "scenario_id": 3,
+    "description": "Rainy spring day",
+    "weather": {
+      "temp": 55,
+      "wind": 8,
+      "precip": 15
+    }
+  },
+  {
+    "scenario_id": 4,
+    "description": "Windy fall day",
+    "weather": {
+      "temp": 45,
+      "wind": 20,
+      "precip": 0
+    }
+  },
+  {
+    "scenario_id": 5,
+    "description": "Mild pleasant day",
+    "weather": {
+      "temp": 70,
+      "wind": 3,
+      "precip": 0
+    }
+  },
+  {
+    "scenario_id": 6,
+    "description": "Snowy winter day",
+    "weather": {
+      "temp": 25,
+      "wind": 12,
+      "precip": 20
+    }
+  },
+  {
+    "scenario_id": 7,
+    "description": "Hot and rainy day",
+    "weather": {
+      "temp": 80,
+      "wind": 4,
+      "precip": 10
+    }
+  },
+  {
+    "scenario_id": 8,
+    "description": "Cold and windy day",
+    "weather": {
+      "temp": 35,
+      "wind": 25,
+      "precip": 0
+    }
+  }
+]

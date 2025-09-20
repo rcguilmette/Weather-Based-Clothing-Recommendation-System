@@ -1,0 +1,212 @@
+[
+  {
+    "date": "2025-04-29 16:24:36.100258",
+    "weather": {
+      "temp": 70,
+      "wind": 10,
+      "precip": 0
+    },
+    "outfit": "For today's weather, I recommend wearing a light jacket over a short-sleeve t-shirt paired with chinos, and finish the outfit with sneakers. Add a baseball cap for sun protection and sunglasses for comfort.",
+    "rating": "just right"
+  },
+  {
+    "date": "2025-04-29 16:31:20.655569",
+    "weather": {
+      "temp": 70,
+      "wind": 10,
+      "precip": 0
+    },
+    "outfit": "For today's weather, I recommend wearing a light jacket over a short-sleeve t-shirt paired with jeans, and finish the outfit with sneakers. You can add a baseball cap for sun protection and sunglasses for comfort.",
+    "rating": "too cold"
+  },
+  {
+    "date": "2025-04-30 17:25:51.735800",
+    "weather": {
+      "temp": "66",
+      "wind": "15",
+      "precip": "0"
+    },
+    "outfit": "For today's weather, I recommend wearing a light jacket over a long-sleeve t-shirt paired with jeans, and finish the outfit with sneakers. You might also consider adding a baseball cap for sun protection and sunglasses for comfort.",
+    "rating": "too hot"
+  },
+  {
+    "date": "2025-04-30 17:26:09.105741",
+    "weather": {
+      "temp": "66",
+      "wind": "15",
+      "precip": "0"
+    },
+    "outfit": "For today's weather, I recommend wearing a light jacket over a long-sleeve t-shirt paired with chinos and finishing the outfit with sneakers. You might also add a baseball cap for sun protection and sunglasses for comfort.",
+    "rating": "too hot"
+  },
+  {
+    "date": "2025-04-30 17:26:28.351081",
+    "weather": {
+      "temp": "66",
+      "wind": "10",
+      "precip": "0"
+    },
+    "outfit": "For today's weather, I recommend wearing a hoodie over a long-sleeve t-shirt paired with jeans and finishing the outfit with sneakers. You can also add a baseball cap and sunglasses for sun protection.",
+    "rating": "too hot"
+  },
+  {
+    "date": "2025-04-30 17:26:39.013644",
+    "weather": {
+      "temp": "66",
+      "wind": "10",
+      "precip": "0"
+    },
+    "outfit": "For today's weather, I recommend wearing a light jacket over a long-sleeve t-shirt paired with chinos, and finishing the outfit with sneakers. You can also add a baseball cap and sunglasses for sun protection and comfort.",
+    "rating": "too hot"
+  },
+  {
+    "date": "2025-04-30 17:27:02.439773",
+    "weather": {
+      "temp": "66",
+      "wind": "10",
+      "precip": "0"
+    },
+    "outfit": "For today's weather, I recommend wearing a long-sleeve t-shirt paired with chinos and topping it off with a light jacket. Finish the outfit with sneakers, and consider adding a baseball cap and sunglasses for sun protection.",
+    "rating": "too hot"
+  },
+  {
+    "date": "2025-04-30 17:27:33.977120",
+    "weather": {
+      "temp": "66",
+      "wind": "1",
+      "precip": "0"
+    },
+    "outfit": "For today's pleasant weather of 66 \u00b0F, I recommend wearing a long-sleeve t-shirt tucked into chinos, topped with a light jacket for added warmth if needed. Finish the outfit with sneakers, and consider adding a baseball cap and sunglasses for sun protection.",
+    "rating": "too hot"
+  },
+  {
+    "date": "2025-05-01 01:13:13.975664",
+    "weather": {
+      "temp": "56",
+      "wind": "12",
+      "precip": "0"
+    },
+    "outfit": "For today's weather, I recommend wearing a light sweater layered under your windbreaker, paired with jeans and comfortable sneakers. You might also consider adding a beanie and scarf for extra warmth, as the temperature is cooler and there's a bit of wind.",
+    "rating": "too hot"
+  },
+  {
+    "date": "2025-05-02 10:49:51.140012",
+    "weather": {
+      "temp": "59",
+      "wind": "12",
+      "precip": "1"
+    },
+    "outfit": "For today's weather of 59 \u00b0F with a decent wind speed, I recommend wearing a heavy sweater underneath a raincoat paired with jeans, and finish the outfit with winter boots for warmth and protection from the light precipitation. Don't forget to bring an umbrella just in case!",
+    "rating": "too hot"
+  },
+  {
+    "date": "2025-05-02 10:50:21.413932",
+    "weather": {
+      "temp": "59",
+      "wind": "12",
+      "precip": "1"
+    },
+    "outfit": "For today's weather of 59 \u00b0F with some wind and light rain, I recommend wearing a heavy sweater under your parka with a hood, paired with jeans. Finish off the outfit with winter boots for warmth and consider adding a scarf and an umbrella for added comfort against the wind and possible precipitation.",
+    "rating": "too hot"
+  },
+  {
+    "date": "2025-05-02 10:51:54.417925",
+    "weather": {
+      "temp": "60",
+      "wind": "12",
+      "precip": "1"
+    },
+    "outfit": "For today\u2019s weather of 60 \u00b0F with some wind and light precipitation, I recommend wearing a long-sleeve t-shirt layered under a light sweater, paired with chinos. Finish the outfit with a raincoat and winter boots for warmth and protection, and don't forget to bring an umbrella!",
+    "rating": "just right"
+  },
+  {
+    "date": "2025-05-02 10:52:57.818330",
+    "weather": {
+      "temp": "60",
+      "wind": "10",
+      "precip": "1"
+    },
+    "outfit": "For today's weather of 60 \u00b0F with light wind and a bit of rain, I recommend wearing a long-sleeve t-shirt layered under a light sweater, paired with jeans. Finish the outfit with a raincoat and winter boots for warmth and protection from the moisture, and make sure to bring an umbrella for extra comfort.",
+    "rating": "just right"
+  },
+  {
+    "date": "2025-05-02 10:54:40.034353",
+    "weather": {
+      "temp": "80",
+      "wind": "6",
+      "precip": "0"
+    },
+    "outfit": "For today's warm weather of 80 \u00b0F, I recommend wearing a short-sleeve t-shirt paired with shorts, and finish the outfit with sandals for comfort. Don't forget to wear sunglasses and a baseball cap for sun protection!",
+    "rating": "just right"
+  },
+  {
+    "date": "2025-05-02 10:55:11.195968",
+    "weather": {
+      "temp": "85",
+      "wind": "8",
+      "precip": "0"
+    },
+    "outfit": "For today's warm weather of 85 \u00b0F, I recommend wearing a tank top paired with shorts, and finish the outfit with sandals for comfort. Don't forget to add sunglasses and a baseball cap for sun protection!",
+    "rating": "just right"
+  },
+  {
+    "date": "2025-05-02 12:12:03.478669",
+    "weather": {
+      "temp": "65",
+      "wind": "4",
+      "precip": "3"
+    },
+    "outfit": "For today's weather of 65 \u00b0F with light rain, I recommend wearing a light sweater layered under your raincoat, paired with jeans. Finish the outfit with sneakers for comfort, and don't forget to bring an umbrella for protection from the rain.",
+    "rating": "just right"
+  },
+  {
+    "date": "2025-05-02 12:13:15.077604",
+    "weather": {
+      "temp": "78",
+      "wind": "6",
+      "precip": "2"
+    },
+    "outfit": "For today's warm weather of 78 \u00b0F with light precipitation, I recommend wearing a short-sleeve t-shirt paired with chinos, topped with a light jacket in case of rain. Complete the outfit with sneakers and bring an umbrella for added comfort against potential rain.",
+    "rating": "just right"
+  },
+  {
+    "date": "2025-05-02 12:13:39.439483",
+    "weather": {
+      "temp": "77",
+      "wind": "13",
+      "precip": "3"
+    },
+    "outfit": "For today's weather of 77 \u00b0F with light rain and a moderate wind speed of 13 mph, I recommend wearing a short-sleeve t-shirt paired with chinos, topped with a light jacket to stay comfortable. Finish the outfit with sneakers and bring an umbrella for added protection against the rain.",
+    "rating": "too hot"
+  },
+  {
+    "date": "2025-05-02 12:13:57.534650",
+    "weather": {
+      "temp": "77",
+      "wind": "13",
+      "precip": "3"
+    },
+    "outfit": "For today's weather of 77 \u00b0F with light rain and a moderate wind speed, I recommend wearing a short-sleeve t-shirt paired with chinos, topped with a light jacket for added protection against the wind. Complete the outfit with sneakers, and don't forget to bring an umbrella for drizzles.",
+    "rating": "too hot"
+  },
+  {
+    "date": "2025-05-02 12:14:12.266046",
+    "weather": {
+      "temp": "77",
+      "wind": "13",
+      "precip": "3"
+    },
+    "outfit": "For today's warm weather of 77 \u00b0F with light rain and a wind speed of 13 mph, I recommend wearing a short-sleeve t-shirt paired with shorts, topped with a light jacket for wind protection. Complete the outfit with sneakers and bring an umbrella for added comfort against the rain.",
+    "rating": "just right"
+  },
+  {
+    "date": "2025-05-02 12:23:41.522558",
+    "weather": {
+      "temp": "66",
+      "wind": "12",
+      "precip": "5"
+    },
+    "outfit": "For today's weather of 66\u00b0F with light rain and a wind speed of 12 mph, I recommend wearing a flannel shirt with jeans, topped off with a raincoat for water resistance. Complete the outfit with sneakers and bring an umbrella for added protection against the rain.",
+    "rating": "just right"
+  }
+]
